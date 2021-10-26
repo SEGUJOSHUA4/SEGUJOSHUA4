@@ -398,5 +398,18 @@ nav{
     right: 5%;
 }
 
+.user-profile a{
+    font-size: 12px;
+    color: #1876f2;
+    text-decoration: none;
+}
 
-
+.settings-menu-inner{
+    padding: 20px;
+}
+.settings-menu hr{
+    border: 0;
+    height: 1px;
+    background: #9a9a9a;
+    margin: 15px 0;
+}
